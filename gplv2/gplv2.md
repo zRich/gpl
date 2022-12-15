@@ -8,7 +8,7 @@
 
 任何人都可以复制和发布本许可证完整副本，但不允许修改。
 
-**【译者声明】**
+## 译者声明
 
 This is an unofficial translation of the GNU General Public License into Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for software that uses the GNU GPL--only the original English text of the GNU GPL does that. However, we hope that this translation will help Chinese speakers understand the GNU GPL better.
 
