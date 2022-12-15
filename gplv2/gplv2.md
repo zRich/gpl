@@ -121,13 +121,13 @@ You may publish this translation, modified or unmodified, only under the terms a
 同时提供你的电子邮件或者纸质邮件地址。如果本程序是交互的，让它在交互模式启动前输出如下的简短声明：
 Gnomovision 第69版，版权所有（C）年份 作者姓名
 
-Gnomovision不提供任何品质保证，输入`show w`查看详情。本软件是自由软件，欢迎你根据许可条件再分发，输入`show c`查看详情。
+Gnomovision不提供任何品质保证，输入'show w'查看详情。本软件是自由软件，欢迎你根据许可条件再分发，输入'show c'查看详情。
 
-假设的命令`show w`和`show c`用于显示通用公共许可证相应的内容。当然，你也可以使用`show w`和`show c`之外的其他命，甚至点击鼠标或者菜单项等任何适合你程序的方式。
+假设的命令'show w'和'show c'用于显示通用公共许可证相应的内容。当然，你也可以使用'show w'和'show c'之外的其他命，甚至点击鼠标或者菜单项等任何适合你程序的方式。
 
 如有必要，你还应该得到你的雇主（如果你是一名程序员）或者学校（如果有的话）签署该本程序的放弃版权声明。如下例所示：
 
-Yoyodyne有限公司声明放弃James Hacker所写的`Gnomovision`（编译通过的程序）的版权权益。
+Yoyodyne有限公司声明放弃James Hacker所写的'Gnomovision'（编译通过的程序）的版权权益。
 
 Ty Coon的签名 1989年4月1日
 
