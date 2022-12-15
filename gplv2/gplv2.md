@@ -139,7 +139,9 @@ Ty Coon的签名 1989年4月1日
 
 翻译：赵振华 <zhao.zhenhua@gmail.com>
 
-如有修改建议欢迎发邮件或者到<https://github.com/zRich/gpl/gplv2>讨论。
+发布日期：2022年12月16日
+
+如有修改建议欢迎发邮件或者到<https://github.com/zRich/gpl>讨论。
 
 参考：
 [简体中文译本] <https://www.gnu.org/licenses/old-licenses/gpl-2.0-translations.html>
