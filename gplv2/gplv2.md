@@ -16,7 +16,7 @@ This is an unofficial translation of the GNU General Public License into Chinese
 
 You may publish this translation, modified or unmodified, only under the terms at https://www.gnu.org/licenses/translations.html.
 
-你可以在遵循条款的前提下转发本译文，经过修改地或者不经过修改地。条款地址https://www.gnu.org/licenses/translations.html。
+仅在遵循https://www.gnu.org/licenses/translations.html定义的条款的前提，你可以经过修改地或者不经过修改地转发本译文。
 
 ## 序言 
 
@@ -135,7 +135,7 @@ Ty Coon的签名 1989年4月1日
 
 本通用公共许可证不允许将你的程序合并到私有程序。如果你的程序是子程序库，而你可以考虑让私有程序链接它，使其更有用。如果你希望这么做，你可以使用GUN宽松通用许可证。
 
----
+______
 翻译：赵振华 <zhao.zhenhua@gmail.com> 
 
 如有修改建议欢迎发邮件或者到https://github.com/zRich/gpl/gplv2讨论。
