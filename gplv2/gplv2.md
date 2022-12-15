@@ -16,7 +16,7 @@ This is an unofficial translation of the GNU General Public License into Chinese
 
 You may publish this translation, modified or unmodified, only under the terms at <https://www.gnu.org/licenses/translations.html>.
 
-仅在遵循 <https://www.gnu.org/licenses/translations.html> 定义的条款的前提下，你才可以经过修改地或者不经过修改地转发本译文。
+仅在遵循 <https://www.gnu.org/licenses/translations.html> 中的条款时，你才可以经过修改地或者不经过修改地转发本译文。
 
 ## 序言
 
