@@ -2,9 +2,9 @@
 
 第二版，1991年6月
 
-版权所有(C) 1989，1991自由软件基金会 
+版权所有(C) 1989，1991自由软件基金会
 
-51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA 
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 任何人都可以复制和发布本许可证完整副本，但不允许修改。
 
@@ -14,11 +14,11 @@ This is an unofficial translation of the GNU General Public License into Chinese
 
 这是GNU通用公共许可协议的一份非官方中文翻译，并非自由软件基金会所发表，不适用于使用GNU通用公共许可协议发布的软件的法律声明——只有GNU通用公共许可协议英文原版才具有法律效力。不过我们希望本翻译能够帮助中文读者更好地理解GNU通用公共许可协议。
 
-You may publish this translation, modified or unmodified, only under the terms at https://www.gnu.org/licenses/translations.html.
+You may publish this translation, modified or unmodified, only under the terms at <https://www.gnu.org/licenses/translations.html>.
 
-仅在遵循 https://www.gnu.org/licenses/translations.html 定义的条款的前提下，你才可以经过修改地或者不经过修改地转发本译文。
+仅在遵循 <https://www.gnu.org/licenses/translations.html> 定义的条款的前提下，你才可以经过修改地或者不经过修改地转发本译文。
 
-## 序言 
+## 序言
 
 大部分软件的许可证都是被设计为剥夺你分享和修改的自由。相反，GNU通用公共许可证的目的是保护你分享和修改自由软件的自由——确保软件对所有用户都是自由的。本通用公共许可证适用于自由软件基金会的大部分软件以及任何作者承诺使用该许可证的软件（自由软件基金会的其他一些软件受GNU宽松通用许可证的保护）。你也可以将本许可证用于你的程序。
 
@@ -26,15 +26,15 @@ You may publish this translation, modified or unmodified, only under the terms a
 
 为了保护你的权利，我们设置了一些限制以防止其他人否定你的权利或者要求你放弃你的权利。这些限制在你分发或者修改这些软件时会成为你的责任。
 
-例如，你分发这类软件的副本，无论是免费的或者收费的，你必须授予接收者你拥有的所有权利。你必须保证他们也能收到或者能够获得源代码。并且你也要确保他们也知道他们的权利。 
+例如，你分发这类软件的副本，无论是免费的或者收费的，你必须授予接收者你拥有的所有权利。你必须保证他们也能收到或者能够获得源代码。并且你也要确保他们也知道他们的权利。
 
 我们通过两步保护你的权利：一是授予软件著作权；二是赋予你合法复制、分发和修改软件的权利。
 
 此外，为了保护每一个作者和我们自己，我们向每个人声明：自由软件是没有任何品质保证的。如果被其他人修改或者转发，我们希望接收者知道他们收到的不是原始版本，因此其他人引入的任何问题不会影响原作者的声誉。
- 
+
 最后，自由软件还不停地收到软件专利的威胁。我们希望避免自由软件分发者以个人名义获取专利，从而导致自由软件成为私有软件。为了避免这种事情发生，我们明确声明：任何专利必须许可给任何人自由使用或者完全不进行许可。
 
-以下是复制、分发和修改的具体条款和条件。 
+以下是复制、分发和修改的具体条款和条件。
 
 ## 复制、分发与修改条款和条件
 
@@ -44,7 +44,7 @@ You may publish this translation, modified or unmodified, only under the terms a
 
 一、如果你在发布每个副本时，在显著的位置包含适当的版权声明和免责声明，包含本许可的全部声明和免责声明，你就可以在任何介质上复制和原文分发你收到的软件的源代码。
 
-你可以为你实际传播副本的实际行为收取费用，你也可以提供品质保证收取费用。 
+你可以为你实际传播副本的实际行为收取费用，你也可以提供品质保证收取费用。
 
 二、你可以通过本程序或者其中任意部分，从而构成衍生作品，并在满足条款一以及下列3点要求的前提下复制或者分发修改的作品。
 
@@ -60,7 +60,7 @@ You may publish this translation, modified or unmodified, only under the terms a
 
 另外，与本程序或者衍生作品一同存储或者通过同一个介质上分发的其他非本程序的衍生作品不在本许可范围内。
 
-三、在上述条款一和二约束下，你可以复制或者分发本程序（或根据条款二的衍生作品）的目标代码或者可执行格式分发本程序时，你必须满足下列要求： 
+三、在上述条款一和二约束下，你可以复制或者分发本程序（或根据条款二的衍生作品）的目标代码或者可执行格式分发本程序时，你必须满足下列要求：
 
   a）附上完整的、机器可读的源代码，在上述条款一和二约束下，按照常用的软件交换媒介分发。或者
 
@@ -101,7 +101,7 @@ You may publish this translation, modified or unmodified, only under the terms a
 十二、在任何情况下，除非适用的法律要求或者署名同意，任何版权方和/或任何按照上述条款修改或/和分发本软件的其他方都不对你的损失负责，包括任何一般的、特殊的、偶发的或者重大损失（包括但不限于因你或者第三方，或操作不当、或无法与其他软件错误协同造成的数据丢失，数据失真、失效），即使那些持有方或者其他人已被告知此类损失的可能性。
 
 **条款和条件结束**
- 
+
 ## 如何将上述条款应用于你的新程序
 
 如果你开发了一个新程序，并且希望它最大限度地被公众所使用，最好的办法就是将其作为自由软件，使得每个人都可以按照本许可协议分发和修改。
@@ -137,9 +137,9 @@ Ty Coon的签名 1989年4月1日
 
 - - -
 
-翻译：赵振华 <zhao.zhenhua@gmail.com> 
+翻译：赵振华 <zhao.zhenhua@gmail.com>
 
-如有修改建议欢迎发邮件或者到https://github.com/zRich/gpl/gplv2讨论。
+如有修改建议欢迎发邮件或者到<https://github.com/zRich/gpl/gplv2>讨论。
 
 参考：
-[简体中文译本] https://www.gnu.org/licenses/old-licenses/gpl-2.0-translations.html
+[简体中文译本] <https://www.gnu.org/licenses/old-licenses/gpl-2.0-translations.html>
