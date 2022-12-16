@@ -62,7 +62,7 @@ You may publish this translation, modified or unmodified, only under the terms a
 
 &emsp;&emsp;三、在上述条款一和二约束下，你可以复制或者分发本程序（或根据条款二的衍生作品）的目标代码或者可执行格式分发本程序时，你必须满足下列要求：
 
-  &emsp;&emsp;&emsp;&emsp;a）附上完整的、机器可读的源代码，在上述条款一和二约束下，按照常用的软件交换媒介分发。或者
+&emsp;&emsp;&emsp;&emsp;a）附上完整的、机器可读的源代码，在上述条款一和二约束下，按照常用的软件交换媒介分发。或者
 
 &emsp;&emsp;&emsp;&emsp;  b）附上至少3年有效期的书面报价，向任何第三方，收取不高于你因分发源代码的实际花费的费用。源代码是在上述条款一和二约束下机器可读的完整的源代码，通过常用的软件交换介质分发。或者
 
