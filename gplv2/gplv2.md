@@ -14,7 +14,7 @@
 
 &emsp;&emsp;本译文是GNU通用公共许可协议的一份非官方中文翻译，并非自由软件基金会所发表，不适用于使用GNU通用公共许可协议发布的软件的法律声明——只有GNU通用公共许可协议英文原版才具有法律效力。不过我们希望本翻译能够帮助中文读者更好地理解GNU通用公共许可协议。
 
-You may publish this translation, modified or unmodified, only under the terms at <https://www.gnu.org/licenses/translations.html>.
+&emsp;You may publish this translation, modified or unmodified, only under the terms at <https://www.gnu.org/licenses/translations.html>.
 
 &emsp;&emsp;仅在遵循 <https://www.gnu.org/licenses/translations.html> 中的条款时，你才可以经过修改地或者不经过修改地发布本译文。
 
