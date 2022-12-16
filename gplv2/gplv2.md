@@ -119,6 +119,7 @@
 &emsp;&emsp;你应当随本程序收到了GNU通用公共许可证的副本，如果没有请致信自由软件基金会：51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 &emsp;&emsp;同时提供你的电子邮件或者纸质邮件地址。如果本程序是交互的，让它在交互模式启动前输出如下的简短声明：
+
 &emsp;&emsp;Gnomovision 第69版，版权所有（C）年份 作者姓名
 
 &emsp;&emsp;Gnomovision不提供任何品质保证，输入'show w'查看详情。本软件是自由软件，欢迎你根据许可条件再分发，输入'show c'查看详情。
