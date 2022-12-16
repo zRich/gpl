@@ -141,7 +141,10 @@ You may publish this translation, modified or unmodified, only under the terms a
 
 发布日期：2022年12月16日
 
+地址：<https://github.com/zRich/gpl/blob/main/gplv2/gplv2.pdf>
+
 如有修改建议欢迎发邮件或者到<https://github.com/zRich/gpl>讨论。
 
 参考：
+
 [简体中文译本] <https://www.gnu.org/licenses/old-licenses/gpl-2.0-translations.html>
