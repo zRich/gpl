@@ -1,1 +1,7 @@
 .DS_Store
+# Standard LaTeX ancillary output files
+*.aux
+*.dvi
+*.toc
+*.synctex.gz
+*.log
