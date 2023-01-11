@@ -1,3 +1,4 @@
+% !TeX program  = XeLaTeX
 \documentclass[11pt]{article}
 \usepackage[UTF8]{ctex}
 % \usepackage{ctex}
@@ -7,8 +8,8 @@
 \setCJKsansfont{Source Han Sans SC}[BoldFont={Source Han Sans SC Bold}]
 % % 中文等宽字体：Courier
 \setCJKmonofont{Courier}
-\title{GNU GENERAL PUBLIC LICENSE}
-\date{Version 3, 29 June 2007}
+\title{GNU通用公开许可证}
+\date{第3版 \space 2007年6月29日}
 
 \begin{document}
 \maketitle
@@ -16,19 +17,29 @@
 \begin{center}
 {\parindent 0in
 
-Copyright \copyright\  2007 Free Software Foundation, Inc. \texttt{https://fsf.org/}
+版权所有 \copyright\  2007年 自由软件基金会 \texttt{https://fsf.org/}
 
 \bigskip
-Everyone is permitted to copy and distribute verbatim copies of this
-
-license document, but changing it is not allowed.}
+任何人都可以复制和发布本许可证完整副本，但不允许修改。}
 
 \end{center}
+\begin{center}
+  {\bf\large 译者声明}
+\end{center}
 
-\renewcommand{\abstractname}{Preamble}
+This is an unofficial translation of the GNU General Public License into Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for software that uses the GNU GPL--only the original English text of the GNU GPL does that. However, we hope that this translation will help Chinese speakers understand the GNU GPL better.
+
+本译文是GNU通用公共许可协议的一份非官方中文翻译，并非自由软件基金会所发表，不适用于使用GNU通用公共许可协议发布的软件的法律声明——只有GNU通用公共许可协议英文原版才具有法律效力。不过我们希望本翻译能够帮助中文读者更好地理解GNU通用公共许可协议。
+
+仅在遵循 <https://www.gnu.org/licenses/translations.html> 中的条款时，你才可以经过修改地或者不经过修改地发布本译文。
+
+\pagebreak
+
+\renewcommand{\abstractname}{引言}
 \begin{abstract}
 The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
+GNU通用公共许可协议是一份面向软件及其他类型作品的、自由的版权公共协议。
 
 The licenses for most software and other practical works are designed
 to take away your freedom to share and change the works.  By contrast,
@@ -39,6 +50,8 @@ GNU General Public License for most of our software; it applies also to
 any other work released this way by its authors.  You can apply it to
 your programs, too.
 
+就多数软件而言，许可协议被设计用于剥夺你分享和修改软件的自由。相反，GNU通用公共许可协议力图保障你分享和修改某程序全部版本的权利——确保自由软件对其用户来说是自由的。我们自由软件基金会将GNU通用公共许可协议用于我们的大多数软件，并为一些其他作品的作者效仿。你也可以将本协议用于你的程序。
+
 When we speak of free software, we are referring to freedom, not
 price.  Our General Public Licenses are designed to make sure that you
 have the freedom to distribute copies of free software (and charge for
@@ -46,10 +59,14 @@ them if you wish), that you receive source code or can get it if you
 want it, that you can change the software or use pieces of it in new
 free programs, and that you know you can do these things.
 
+所谓自由软件，强调自由，而非免费。本GNU通用公共许可协议设计用于确保你享有分发自由软件的自由（你可以为此服务收费），确保你可以在需要的时候获得这些软件的源码，确保你可以修改这些软件或者在新的自由软件中复用其中某些片段，并且确保你在这方面享有知情权。
+
 To protect your rights, we need to prevent others from denying you
 these rights or asking you to surrender the rights.  Therefore, you have
 certain responsibilities if you distribute copies of the software, or if
 you modify it: responsibilities to respect the freedom of others.
+
+为了保护你的权利，我们设置了一些限制以防止其他人否定你的权利或者要求你放弃你的权利。这些限制在你分发或者修改这些软件时会成为你的责任。
 
 For example, if you distribute copies of such a program, whether
 gratis or for a fee, you must pass on to the recipients the same
@@ -57,15 +74,21 @@ freedoms that you received.  You must make sure that they, too, receive
 or can get the source code.  And you must show them these terms so they
 know their rights.
 
+例如，你分发这类软件的副本，无论是收费或者免费，你必须授予接收者你拥有的所有权利。你必须保证他们也能收到或者能够获得源代码。并且你也要确保他们也知道他们的权利。
+
 Developers that use the GNU GPL protect your rights with two steps:
 (1) assert copyright on the software, and (2) offer you this License
 giving you legal permission to copy, distribute and/or modify it.
+
+采用GNU通用公共许可协议的开发者通过两步保障你的权利：（1）申明软件的版权；（2）通过本协议授予你合法地复制、分发和修改该软件的权利。
 
 For the developers' and authors' protection, the GPL clearly explains
 that there is no warranty for this free software.  For both users' and
 authors' sake, the GPL requires that modified versions be marked as
 changed, so that their problems will not be attributed erroneously to
 authors of previous versions.
+
+为了保护作者和开发者，GNU通用公共许可协议声明：自由软件并没有品质担保。为用户和作者双方着想，GNU通用公共许可协议要求修改版必须有标记，以免其问题被错误地归到先前版本的作者身上。
 
 Some devices are designed to deny users access to install or run
 modified versions of the software inside them, although the manufacturer
@@ -78,6 +101,10 @@ products.  If such problems arise substantially in other domains, we
 stand ready to extend this provision to those domains in future versions
 of the GPL, as needed to protect the freedom of users.
 
+某些设备设计成拒绝用户安装、运行修改过的软件，但厂商不受此限制。这和我们保护用户享有修改软件的自由的宗旨存在根本性矛盾。
+该滥用协议的模式出现于个人用品领域，这恰恰是最不可接受的。因此，我们设计了这版GNU通用公共许可协议来禁止这种做法。
+如果此类问题在其他领域出现，我们时刻准备着在将来的版本中把规定扩展到相应领域，以保护用户的自由。
+
 Finally, every program is threatened constantly by software patents.
 States should not allow patents to restrict development and use of
 software on general-purpose computers, but in those that do, we wish to
@@ -85,12 +112,17 @@ avoid the special danger that patents applied to a free program could
 make it effectively proprietary.  To prevent this, the GPL assures that
 patents cannot be used to render the program non-free.
 
+最后，每个程序都持续受到软件专利的威胁。政府不应该允许专利限制通用计算机软件的开发和应用，在做不到这点时，我们希望避免因专利应用而使自由软件私有化的危险。
+就此，GNU通用公共许可协议保证专利不能使程序非自由化。
+
 The precise terms and conditions for copying, distribution and
 modification follow.
+下文是关于复制、分发和修改的严谨描述和实施条件。
+
 \end{abstract}
 
 \begin{center}
-{\Large \sc Terms and Conditions}
+{\Large \sc 条款和条件}
 \end{center}
 
 
@@ -98,24 +130,33 @@ modification follow.
 
 \addtocounter{enumi}{-1}
 
-\item Definitions.
+\item 定义
 
 ``This License'' refers to version 3 of the GNU General Public License.
+
+“本许可”指GNU通用公共许可协议第3版。
 
 ``Copyright'' also means copyright-like laws that apply to other kinds of
 works, such as semiconductor masks.
 
+“版权”也指适用于诸如半导体掩模的其他类型作品的类似法律。
+
 ``The Program'' refers to any copyrightable work licensed under this
 License.  Each licensee is addressed as ``you''.  ``Licensees'' and
 ``recipients'' may be individuals or organizations.
+
+“本程序”指任何在本协议保护下的有版权的作品。每个许可获得者称作“你”。“许可获得者”和“接收者”可以是个人或组织。
 
 To ``modify'' a work means to copy from or adapt all or part of the work
 in a fashion requiring copyright permission, other than the making of an
 exact copy.  The resulting work is called a ``modified version'' of the
 earlier work or a work ``based on'' the earlier work.
 
+“修改”一个作品指需要版权许可的复制及对作品全面的或部分的改编行为，有别于制作副本。所产生的作品称作前作的“修改版”，或“基于”前作的作品。
+
 A ``covered work'' means either the unmodified Program or a work based
 on the Program.
+“受保护作品”指程序或其派生作品。
 
 To ``propagate'' a work means to do anything with it that, without
 permission, would make you directly or secondarily liable for
@@ -123,10 +164,12 @@ infringement under applicable copyright law, except executing it on a
 computer or modifying a private copy.  Propagation includes copying,
 distribution (with or without modification), making available to the
 public, and in some countries other activities as well.
-
+“传播”作品指那些未经许可就会在适用版权法律下构成直接或间接侵权的行为，不包括在计算机上运行和私下的修改。
+传播包括复制、分发（无论修改与否）、向公众公开，以及在某些国家的其他行为。
 To ``convey'' a work means any kind of propagation that enables other
 parties to make or receive copies.  Mere interaction with a user through
 a computer network, with no transfer of a copy, is not conveying.
+“转发”作品指让他方能够制作或者接收副本的行为。仅仅通过计算机网络和用户交互，没有传输副本，则不算转发。
 
 An interactive user interface displays ``Appropriate Legal Notices''
 to the extent that it includes a convenient and prominently visible
@@ -137,16 +180,23 @@ work under this License, and how to view a copy of this License.  If
 the interface presents a list of user commands or options, such as a
 menu, a prominent item in the list meets this criterion.
 
-\item Source Code.
+一个显示“适当的法律声明”的交互式用户界面应包括一个便捷而醒目的可视化特性：(1)显示适当的版权声明；(2)告知用户没有品质担保（提供了品质担保的情况除外），许可获得者可以在本协议约束下转发该作品，及查看本协议副本的途径。如果该界面提供一个命令列表，如菜单，其表项应符合上述规范。
+
+
+\item 源代码
 
 The ``source code'' for a work means the preferred form of the work
 for making modifications to it.  ``Object code'' means any non-source
 form of a work.
 
+作品的“源代码”指其可修改的首选形式，目标码指所有其他形式。
+
 A ``Standard Interface'' means an interface that either is an official
 standard defined by a recognized standards body, or, in the case of
 interfaces specified for a particular programming language, one that
 is widely used among developers working in that language.
+
+“标准接口”指标准化组织定义的官方标准中的接口，或针为某种编程语言设定的接口中为开发者广泛使用的接口。
 
 The ``System Libraries'' of an executable work include anything, other
 than the work as a whole, that (a) is included in the normal form of
@@ -158,6 +208,9 @@ implementation is available to the public in source code form.  A
 (kernel, window system, and so on) of the specific operating system
 (if any) on which the executable work runs, or a compiler used to
 produce the work, or an object code interpreter used to run it.
+
+可执行作品中的“系统库”不是指整个程序，而是涵盖此等内容：（a）以通常形式和主部件打包到一起却并非后者一部分，
+且（b）仅为和主部件一起使作品可用或实现某些已有公开实现源码的接口。“主部件”在这里指可执行作品运行依赖的操作系统（如果存在）的必要部件（内核、窗口系统等），或者生成该作品的编译器，或运行所需的目标码解释器。
 
 The ``Corresponding Source'' for a work in object code form means all
 the source code needed to generate, install, and (for an executable
@@ -172,12 +225,22 @@ linked subprograms that the work is specifically designed to require,
 such as by intimate data communication or control flow between those
 subprograms and other parts of the work.
 
+目标码形式作品的“相应的源码”指所有修改作品及生成、安装、运行（对可执行作品而言）目标码所需的源码，或者修改作品的源代码，包括控制上述行为的脚本。
+可是，其中不包括系统库、通用工具、不需要修改就可以直接用于支持上述行为但不是该作品一部分的、通常可得的自由软件。
+例如，相应的源码包含与作品源文件相关的接口定义，以及共享库和作品专门依赖的动态链接子程序的源码。
+这里的依赖体现为密切的数据交换或者该子程序和作品其他部分的控制流切换。
+
 The Corresponding Source need not include anything that users
 can regenerate automatically from other parts of the Corresponding
 Source.
 
+相应的源码不必包含那些用户可以通过源码其他部分自动生成的内容。
+
+
 The Corresponding Source for a work in source code form is that
 same work.
+
+源码形式作品的相应源码即其本身。
 
 \item Basic Permissions.
 
