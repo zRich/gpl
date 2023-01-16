@@ -189,7 +189,7 @@ The ``source code'' for a work means the preferred form of the work
 for making modifications to it.  ``Object code'' means any non-source
 form of a work.
 
-作品的“源代码”指其可修改的首选形式，目标码指所有其他形式。
+作品的“源代码”指其可修改的首选形式，目标代码指所有其他形式。
 
 A ``Standard Interface'' means an interface that either is an official
 standard defined by a recognized standards body, or, in the case of
@@ -210,7 +210,7 @@ implementation is available to the public in source code form.  A
 produce the work, or an object code interpreter used to run it.
 
 可执行作品中的“系统库”不是指整个程序，而是涵盖此等内容：（a）以通常形式和主部件打包到一起却并非后者一部分，
-且（b）仅为和主部件一起使作品可用或实现某些已有公开实现源码的接口。“主部件”在这里指可执行作品运行依赖的操作系统（如果存在）的必要部件（内核、窗口系统等），或者生成该作品的编译器，或运行所需的目标码解释器。
+且（b）仅为和主部件一起使作品可用或实现某些已有公开实现源码的接口。“主部件”在这里指可执行作品运行依赖的操作系统（如果存在）的必要部件（内核、窗口系统等），或者生成该作品的编译器，或运行所需的目标代码解释器。
 
 The ``Corresponding Source'' for a work in object code form means all
 the source code needed to generate, install, and (for an executable
@@ -225,7 +225,7 @@ linked subprograms that the work is specifically designed to require,
 such as by intimate data communication or control flow between those
 subprograms and other parts of the work.
 
-目标码形式作品的“相应的源码”指所有修改作品及生成、安装、运行（对可执行作品而言）目标码所需的源码，或者修改作品的源代码，包括控制上述行为的脚本。
+目标代码形式作品的“相应的源码”指所有修改作品及生成、安装、运行（对可执行作品而言）目标代码所需的源码，或者修改作品的源代码，包括控制上述行为的脚本。
 可是，其中不包括系统库、通用工具、不需要修改就可以直接用于支持上述行为但不是该作品一部分的、通常可得的自由软件。
 例如，相应的源码包含与作品源文件相关的接口定义，以及共享库和作品专门依赖的动态链接子程序的源码。
 这里的依赖体现为密切的数据交换或者该子程序和作品其他部分的控制流切换。
@@ -379,16 +379,20 @@ parts of the aggregate.
 并且这种组合和组合后的版权不会限制单独作品的授权，则这个组合称为“组合作品”。
 
 \item Conveying Non-Source Forms.
+\item 以非源代码形式传递
 
 You may convey a covered work in object code form under the terms
 of sections 4 and 5, provided that you also convey the
 machine-readable Corresponding Source under the terms of this License,
 in one of these ways:
+你可以以第4条和第5条所述那样以目标代码形式传递受保护作品，同时在本许可规范下以如下方式之一传递机器可读的对应源代码：
+
   \begin{enumerate}
   \item Convey the object code in, or embodied in, a physical product
   (including a physical distribution medium), accompanied by the
   Corresponding Source fixed on a durable physical medium
   customarily used for software interchange.
+  \item 通过物理产品（包括物理分发媒介）传递或者嵌入目标代码时，通过常用于软件交换的耐用型物理媒介随同传递相应的源代码。
 
   \item Convey the object code in, or embodied in, a physical product
   (including a physical distribution medium), accompanied by a
@@ -402,12 +406,18 @@ in one of these ways:
   conveying of source, or (2) access to copy the
   Corresponding Source from a network server at no charge.
 
+  \item 通过物理产品（包括物理分发媒介）时，附随具有至少3年有效期的书面承诺，并且有效期涵盖提供的备件或客户支持，以授予任何目标代码的持有者：
+  （1）获得全部受保护产品全部软件的相应源代码的副本，副本通过常用于软件交换的耐用型物理媒介提供，且收费不超过其合理的传递成本；
+  或者（2）通过网络免费获得相应源代码的途径。
+
   \item Convey individual copies of the object code with a copy of the
   written offer to provide the Corresponding Source.  This
   alternative is allowed only occasionally and noncommercially, and
   only if you received the object code with such an offer, in accord
   with subsection 6b.
-
+  
+  \item 单独传递目标代码的副本时，伴以提供源代码的书面承诺。本选项仅在偶尔并且非商业情况下可以使用，同时你收到也是第6条b项所述的目标代码的情况下可用。
+  
   \item Convey the object code by offering access from a designated
   place (gratis or for a charge), and offer equivalent access to the
   Corresponding Source in the same way through the same place at no
@@ -421,15 +431,23 @@ in one of these ways:
   Corresponding Source, you remain obligated to ensure that it is
   available for as long as needed to satisfy these requirements.
 
+  \item 通过在指定地点提供目标代码获取服务（无论是否收费）的形式传递目标代码时，在同一地点以同样的方式提供相同的源码获取服务，
+  并不得额外收费。你不必要求接收者在复制目标代码的同时复制源码。如果提供获取目标代码的地址为网络服务器，相应的源代码可以提供在另一个支持相同复制功能的服务器
+  上（由你或者第三方运营），不过你要在目标代码处指出相应源码的确切路径。不管你用什么源代码服务器，你有义务要确保持续可用以满足这些要求。
+
   \item Convey the object code using peer-to-peer transmission, provided
   you inform other peers where the object code and Corresponding
   Source of the work are being offered to the general public at no
   charge under subsection 6d.
+  \item 通过点对点传输传递目标代码时，告知其他节点目标代码和源代码在何处，并以第6条d项形式向大众免费提供。
+
   \end{enumerate}
 
 A separable portion of the object code, whose source code is excluded
 from the Corresponding Source as a System Library, need not be
 included in conveying the object code work.
+
+目标代码的可分离部分，其源代码被排除在外来自相应的源作为系统库，不需要包括传送目标代码的工作。
 
 A ``User Product'' is either (1) a ``consumer product'', which means any
 tangible personal property which is normally used for personal, family,
@@ -444,6 +462,12 @@ is a consumer product regardless of whether the product has substantial
 commercial, industrial or non-consumer uses, unless such uses represent
 the only significant mode of use of the product.
 
+“用户产品”指（1）“消费品”，即个人、家庭或日常用途的个人的有形财产；或者（2）面向家庭设计或销售的物品。在判断一款产品是否消费品时，
+对于有争议的案例，应扩大范围尽量涵盖。就特定用户接收到特定产品而言，“正常使用”指对此类产品的典型的或一般使用，与该用户的身份，
+该用户对该产品的实际用法，以及该产品的预期用法无关。无论产品是否实质上具有商业上的，工业上的，及非面向消费者的用法，它都视为消费品，
+除非以上用法代表了它唯一的重要使用模式。
+
+
 ``Installation Information'' for a User Product means any methods,
 procedures, authorization keys, or other information required to install
 and execute modified versions of a covered work in that User Product from
@@ -451,6 +475,9 @@ a modified version of its Corresponding Source.  The information must
 suffice to ensure that the continued functioning of the modified object
 code is in no case prevented or interfered with solely because
 modification has been made.
+
+用户产品的“安装信息”，指基于修改过的源代码用来安装运行该产品中的受保护作品的修改版所需的方法、
+流程、授权秘钥及其他信息。这些信息必须足以保证修改过的目标代码不会仅仅因为被修改过而不能继续工作。
 
 If you convey an object code work under this section in, or with, or
 specifically for use in, a User Product, and the conveying occurs as
@@ -463,6 +490,10 @@ if neither you nor any third party retains the ability to install
 modified object code on the User Product (for example, the work has
 been installed in ROM).
 
+如果你根据本条规定，传递一个目标代码作品到用户产品中或与用户产品，或专门用于特定用户产品的目的，并且传送行为成为交易的一部分，
+使得用户产品永久或在特定期限内暂时转移给接收者（无论交易的特征如何），必须通过安装信息附上根据本条传递的相应来源。 
+但如果你和第三方都没有在用户产品中保留安装修改目标代码的能力时，可以不遵守该要求（例如，作品有已安装在 ROM 中）。
+
 The requirement to provide Installation Information does not include a
 requirement to continue to provide support service, warranty, or updates
 for a work that has been modified or installed by the recipient, or for
@@ -471,11 +502,16 @@ network may be denied when the modification itself materially and
 adversely affects the operation of the network or violates the rules and
 protocols for communication across the network.
 
+这项要求不成立。要求提供安装信息并不要求为修改或安装的作品，以及其载体产品继续提供技术支持、品质担保和升级。
+当修改本身对网络运行有实质上的负面影响，或违背了网络通信协议和规则时，可以拒绝其联网。
+
 Corresponding Source conveyed, and Installation Information provided,
 in accord with this section must be in a format that is publicly
 documented (and with an implementation available to the public in
 source code form), and must require no special password or key for
 unpacking, reading or copying.
+
+根据本条规定发布的源代码及安装信息，必须以公共的文档格式（并且以源代码形式实现对公众可用）存在，同时不得对解压、阅读和复制设置任何密码或秘钥。
 
 \item Additional Terms.
 
