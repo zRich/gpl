@@ -287,4 +287,4 @@ GNU通用公共许可证是一份面向软件及其他类型作品的、公共�
 
 地址：https://github.com/zRich/gpl/blob/main/gplv3/gplv3.pdf
 
-如有修改建议欢迎发邮件或者到 \texttt{https://github.com/zRich/gpl}讨论。
+如有修改建议欢迎发邮件或者到 https://github.com/zRich/gpl 讨论。
