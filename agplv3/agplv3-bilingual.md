@@ -1,38 +1,14 @@
-% !TeX program  = XeLaTeX
-\documentclass[11pt]{article}
+# GNU AFFERO GENERAL PUBLIC LICENSE
+# GNU Affero 通用公共许可证
+Version 3, 19 November 2007
+第3版, 2017年11月19日
 
-\usepackage[UTF8]{ctex}
-% 中文默认字体：思源宋体，粗体为思源宋体粗体
-\setCJKmainfont{Source Han Serif SC}[BoldFont=Source Han Serif SC Bold]
-% 中文无衬线字体：思源黑体，粗体为思源黑体粗体
-\setCJKsansfont{Source Han Sans SC}[BoldFont=Source Han Sans SC Bold]
-% 中文等宽字体：Source Han Serif SC
-% verbatim 使用该字体
-\setCJKmonofont{Source Han Serif SC}
-
-
-\title{GNU AFFERO GENERAL PUBLIC LICENSE}
-\title{GNU Affero 通用公共许可证}
-\date{Version 3, 19 November 2007}
-\date{第3版, 2017年11月19日}
-
-\begin{document}
-\maketitle
-
-\begin{center}
-{\parindent 0in
-
-Copyright \copyright\ 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 版权所有 \copyright\  2007年 自由软件基金会 \texttt{https://fsf.org/}
 
-\bigskip
-任何人都可以复制和发布本许可证的完整副本，但不允许修改。}
+任何人都可以复制和发布本许可证的完整副本，但不允许修改。
 
-\end{center}
-
-\begin{center}
-  {\bf\large 译者声明}
-\end{center}
+## 译者声明
 
 This is an unofficial translation of the GNU Affero General Public License into Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for software that uses the GNU GPL--only the original English text of the GNU GPL does that. However, we hope that this translation will help Chinese speakers understand the GNU GPL better.
 
@@ -40,11 +16,8 @@ This is an unofficial translation of the GNU Affero General Public License into 
 
 仅在遵循 \texttt{https://www.gnu.org/licenses/translations.html} 中的条款时，你才可以经过修改地或者不经过修改地发布本译文。
 
-\pagebreak
-
-\renewcommand{\abstractname}{Preamble}
-\renewcommand{\abstractname}{引言}
-\begin{abstract}
+## Preamble
+## 引言
 The GNU Affero General Public License is a free, copyleft license
 for software and other kinds of works, specifically designed to ensure
 cooperation with the community in the case of network server software.
@@ -110,20 +83,11 @@ The precise terms and conditions for copying, distribution and
 modification follow.
 
 下文是关于复制、分发和修改的详细条款和条件。
-\end{abstract}
+## Terms and Conditions
+## 条款和条件
 
-\begin{center}
-{\Large \sc Terms and Conditions}
-{\Large \sc 条款和条件}
-\end{center}
-
-
-\begin{enumerate}
-
-\addtocounter{enumi}{-1}
-
-\item Definitions.
-\item 定义
+### 0. Definitions.
+### 0. 定义
 
 ``This License'' refers to version 3 of the GNU Affero General Public License.
 
@@ -178,8 +142,8 @@ menu, a prominent item in the list meets this criterion.
 
 显示“适当的法律声明”的交互式用户界面应包括一个方便和醒目的可视化方式显示：（1）适当的版权声明；（2）告知用户没有品质担保（提供了品质担保的情况除外），被授权人可以在本许可证约束下传递该作品，及查看本许可证副本的途径。如果该界面是以命令列表或者选项方式显示，如菜单，在列表项显示上述法律声明，也是符合本要求。
 
-\item Source Code.
-\item 源代码
+### 1. Source Code.
+### 1. 源代码
 
 The ``source code'' for a work means the preferred form of the work
 for making modifications to it.  ``Object code'' means any non-source
@@ -233,8 +197,8 @@ same work.
 
 源代码形式作品的相应源代码即该作品本身。
 
-\item Basic Permissions.
-\item 基本授权
+### 2. Basic Permissions.
+### 2. 基本授权
 
 All rights granted under this License are granted for the term of
 copyright on the Program, and are irrevocable provided the stated
@@ -265,8 +229,8 @@ makes it unnecessary.
 
 仅当满足后文所述条件时，其他各种情况下的传递才是被允许的。不允许再授权，而第10条的存在也使再授权变得没有必要。
 
-\item Protecting Users' Legal Rights From Anti-Circumvention Law.
-\item 保护用户的合法权益免受反破解法限制
+### 3. Protecting Users' Legal Rights From Anti-Circumvention Law.
+### 3. 保护用户的合法权益免受反破解法限制
 
 No covered work shall be deemed part of an effective technological
 measure under any applicable law fulfilling obligations under article
@@ -286,8 +250,8 @@ technological measures.
 
 如果你传递一个受保护作品，即表明你放弃禁止技术规避措施的法律权利，行使本许可证所授予权利可以实现规避，同时，你也放弃禁止技术规避措施相关的法律赋予你或者第三方限制运行或者修改本作品的权利。
 
-\item Conveying Verbatim Copies.
-\item 传递原始副本
+### 4. Conveying Verbatim Copies.
+### 4. 传递原始副本
 
 You may convey verbatim copies of the Program's source code as you
 receive it, in any medium, provided that you conspicuously and
@@ -304,28 +268,24 @@ and you may offer support or warranty protection for a fee.
 
 你可以免费或收任何费用传递，也可以选择提供技术支持或品质担保以收取费用。
 
-\item Conveying Modified Source Versions.
-\item 传递经过修改的源代码
+### 5. Conveying Modified Source Versions.
+### 5. 传递经过修改的源代码
 
 You may convey a work based on the Program, or the modifications to
 produce it from the Program, in the form of source code under the
 terms of section 4, provided that you also meet all of these conditions:
 
 你可以以第4条规定的源代码形式传递基于本程序的作品或修改的内容，但必须满足以下要求：
-  \begin{enumerate}
-  \item The work must carry prominent notices stating that you modified
-  it, and giving a relevant date.
-
-  \item 该作品必须带有明显的修改声明及相应的日期。
   
-  \item The work must carry prominent notices stating that it is
-  released under this License and any conditions added under section
-  7.  This requirement modifies the requirement in section 4 to
-  ``keep intact all notices''.
+  - a) The work must carry prominent notices stating that you modified it, and giving a relevant date.
 
-  \item 该作品必须带有明显的声明，指明其在本许可证及任何符合第7条的附加条款下发布。这个要求修正了第4条关于“完整保留所有声明”的内容。
+  - a) 该作品必须带有明显的修改声明及相应的日期。
   
-  \item You must license the entire work, as a whole, under this
+  - b)  The work must carry prominent notices stating that it is released under this License and any conditions added under section 7.  This requirement modifies the requirement in section 4 to ``keep intact all notices''.
+
+  - b) 该作品必须带有明显的声明，指明其在本许可证及任何符合第7条的附加条款下发布。这个要求修正了第4条关于“完整保留所有声明”的内容。
+  
+  - c) You must license the entire work, as a whole, under this
   License to anyone who comes into possession of a copy.  This
   License will therefore apply, along with any applicable section 7
   additional terms, to the whole of the work, and all its parts,
@@ -333,15 +293,15 @@ terms of section 4, provided that you also meet all of these conditions:
   permission to license the work in any other way, but it does not
   invalidate such permission if you have separately received it.
 
-  \item 你必须按照本许可证将该作品整体许可给任何得到副本的人。本许可证与符合第7条的附加条款共同适用于整个作品，以及作品的任何一部分，不管它们是如何组建的。本许可证不允许以其他形式许可本作品，但不会使你已经单独收到的其他授权无效。
+  - c) 你必须按照本许可证将该作品整体许可给任何得到副本的人。本许可证与符合第7条的附加条款共同适用于整个作品，以及作品的任何一部分，不管它们是如何组建的。本许可证不允许以其他形式许可本作品，但不会使你已经单独收到的其他授权无效。
 
-  \item If the work has interactive user interfaces, each must display
+  - d) If the work has interactive user interfaces, each must display
   Appropriate Legal Notices; however, if the Program has interactive
   interfaces that do not display Appropriate Legal Notices, your
   work need not make them do so.
 
-  \item 如果该作品有交互式用户界面，则其必须显示适当的法律声明。然而，当该程序有交互式用户界面却不显示适当的法律声明时，你的作品也无需使其显示。
-\end{enumerate}
+  - d) 如果该作品有交互式用户界面，则其必须显示适当的法律声明。然而，当该程序有交互式用户界面却不显示适当的法律声明时，你的作品也无需使其显示。
+
 A compilation of a covered work with other separate and independent
 works, which are not by their nature extensions of the covered work,
 and which are not combined with it such as to form a larger program,
@@ -354,8 +314,8 @@ parts of the aggregate.
 
 一个受保护作品与其他单独且独立的作品组成一个组合，其中的单独作品既不是受保护作品的自然延伸，也不是为了与受保护作品组成更大程序而与被保护作品存储或者分发介质上，并且这种组合和组合后的版权不会限制单独作品的授权，则这种组合称为“组合体”。
 
-\item Conveying Non-Source Forms.
-\item 以非源代码形式传递
+### 6. Conveying Non-Source Forms.
+### 6. 以非源代码形式传递
 
 You may convey a covered work in object code form under the terms
 of sections 4 and 5, provided that you also convey the
@@ -363,16 +323,15 @@ machine-readable Corresponding Source under the terms of this License,
 in one of these ways:
 
 你可以以第4条和第5条所述那样以目标代码形式传递受保护作品，同时在本许证可规范下以如下方式之一传递机器可读的对应源代码：
-
-  \begin{enumerate}
-  \item Convey the object code in, or embodied in, a physical product
+  
+  - a) Convey the object code in, or embodied in, a physical product
   (including a physical distribution medium), accompanied by the
   Corresponding Source fixed on a durable physical medium
   customarily used for software interchange.
 
-  \item 通过物理产品（包括物理分发媒介）传递或者嵌入目标代码时，通过常用于软件交换的耐用型物理媒介传递相应的源代码。
+  - a) 通过物理产品（包括物理分发媒介）传递或者嵌入目标代码时，通过常用于软件交换的耐用型物理媒介传递相应的源代码。
   
-  \item Convey the object code in, or embodied in, a physical product
+  - b) Convey the object code in, or embodied in, a physical product
   (including a physical distribution medium), accompanied by a
   written offer, valid for at least three years and valid for as
   long as you offer spare parts or customer support for that product
@@ -384,17 +343,17 @@ in one of these ways:
   conveying of source, or (2) access to copy the
   Corresponding Source from a network server at no charge.
 
-  \item 通过物理产品（包括物理分发媒介）时，附随具有至少3年有效期的书面承诺，并且有效期涵盖提供的备件或客户支持，以授予任何目标代码的持有者：（1）获得产品中全部受保护软件的相应源代码的副本，副本通过常用于软件交换的耐用型物理媒介提供，且收费不超过其合理的传递成本；或者（2）通过网络免费获得相应源代码的途径。
+  - b) 通过物理产品（包括物理分发媒介）时，附随具有至少3年有效期的书面承诺，并且有效期涵盖提供的备件或客户支持，以授予任何目标代码的持有者：（1）获得产品中全部受保护软件的相应源代码的副本，副本通过常用于软件交换的耐用型物理媒介提供，且收费不超过其合理的传递成本；或者（2）通过网络免费获得相应源代码的途径。
 
-  \item Convey individual copies of the object code with a copy of the
+  - c) Convey individual copies of the object code with a copy of the
   written offer to provide the Corresponding Source.  This
   alternative is allowed only occasionally and noncommercially, and
   only if you received the object code with such an offer, in accord
   with subsection 6b.
 
-  \item 单独传递目标代码的副本时，伴以提供源代码的书面承诺。本选项仅在偶尔并且非商业情况下，同时你收到也是第6条b项所述的目标代码的情况下可用。
+  - c) 单独传递目标代码的副本时，伴以提供源代码的书面承诺。本选项仅在偶尔并且非商业情况下，同时你收到也是第6条b项所述的目标代码的情况下可用。
   
-  \item Convey the object code by offering access from a designated
+  - d) Convey the object code by offering access from a designated
   place (gratis or for a charge), and offer equivalent access to the
   Corresponding Source in the same way through the same place at no
   further charge.  You need not require recipients to copy the
@@ -407,16 +366,15 @@ in one of these ways:
   Corresponding Source, you remain obligated to ensure that it is
   available for as long as needed to satisfy these requirements.
 
-  \item 通过在指定地址获取目标代码（无论是否收费）的形式传递目标代码时，对同一地址以同样的方式提供相应源代码同等访问权限，并不得额外收费。你不必要求接收者在复制目标代码的同时复制源代码。如果提供获取目标代码的地址为网络服务器，相应的源代码可以提供在另一个支持相同复制功能的服务器上（由你或者第三方运营），不过你要在目标代码处指出相应源代码的确切路径。不管你用什么源代码服务器，你有义务要确保持续可用以满足这些要求。
+  - d) 通过在指定地址获取目标代码（无论是否收费）的形式传递目标代码时，对同一地址以同样的方式提供相应源代码同等访问权限，并不得额外收费。你不必要求接收者在复制目标代码的同时复制源代码。如果提供获取目标代码的地址为网络服务器，相应的源代码可以提供在另一个支持相同复制功能的服务器上（由你或者第三方运营），不过你要在目标代码处指出相应源代码的确切路径。不管你用什么源代码服务器，你有义务要确保持续可用以满足这些要求。
 
-  \item Convey the object code using peer-to-peer transmission, provided
+  - e) Convey the object code using peer-to-peer transmission, provided
   you inform other peers where the object code and Corresponding
   Source of the work are being offered to the general public at no
   charge under subsection 6d.
 
-  \item 通过点对点传输传递目标代码时，告知其他节点目标代码和源代码在何处，并以第6条d项形式向大众免费提供。
+  - 3) 通过点对点传输传递目标代码时，告知其他节点目标代码和源代码在何处，并以第6条d项形式向大众免费提供。
   
-\end{enumerate}
 
 A separable portion of the object code, whose source code is excluded
 from the Corresponding Source as a System Library, need not be
@@ -478,8 +436,8 @@ unpacking, reading or copying.
 
 提供安装信息的要求不包括对接受者修改或者安装、或者已经被修改或者安装的用户产品继续提供支持服务、品质担保或者升级。当修改本身对网络运行有重大负面影响，或违反网络通信规则和协议时，可能会被拒绝访问网络。
 
-\item Additional Terms.
-\item 附加条款
+### 7. Additional Terms.
+### 7. 附加条款
 
 ``Additional permissions'' are terms that supplement the terms of this
 License by making exceptions from one or more of its conditions.
@@ -507,41 +465,40 @@ that material) supplement the terms of this License with terms:
 
 尽管本许可证还有的其他条款，对于你添加到受保护作品中的材料，你可以对本许可证（如果你获得该材料版权持有人的授权）添加如下补充条款：
 
-  \begin{enumerate}
-  \item Disclaiming warranty or limiting liability differently from the
+  - a) Disclaiming warranty or limiting liability differently from the
   terms of sections 15 and 16 of this License; or
 
-  \item 以第15条、第16条之外的方式，拒绝提供品质担保或缩小责任范围。或者
+  - a) 以第15条、第16条之外的方式，拒绝提供品质担保或缩小责任范围。或者
 
-  \item Requiring preservation of specified reasonable legal notices or
+  - b) Requiring preservation of specified reasonable legal notices or
   author attributions in that material or in the Appropriate Legal
   Notices displayed by works containing it; or
 
-  \item 要求在此材料中或在法律声明中包含特定的合理法律声明或作者信息。或者
+  - b) 要求在此材料中或在法律声明中包含特定的合理法律声明或作者信息。或者
   
-  \item Prohibiting misrepresentation of the origin of that material, or
+  - c) Prohibiting misrepresentation of the origin of that material, or
   requiring that modified versions of such material be marked in
   reasonable ways as different from the original version; or
 
-  \item 禁止对该原始材料不当描述，或要求用不同与原始版本的方式对该材料修改版本合理标示。或者
+  - c) 禁止对该原始材料不当描述，或要求用不同与原始版本的方式对该材料修改版本合理标示。或者
   
-  \item Limiting the use for publicity purposes of names of licensors or
+  - d) Limiting the use for publicity purposes of names of licensors or
   authors of the material; or
 
-  \item 限制公开使用授权人或者该材料作者姓名。或者
+  - d) 限制公开使用授权人或者该材料作者姓名。或者
 
-  \item Declining to grant rights under trademark law for use of some
+  - e) Declining to grant rights under trademark law for use of some
   trade names, trademarks, or service marks; or
 
-  \item 拒绝使用在商标法下使用商号、商标及服务标识。
+  - e) 拒绝使用在商标法下使用商号、商标及服务标识。
 
-  \item Requiring indemnification of licensors and authors of that
+  - f) Requiring indemnification of licensors and authors of that
   material by anyone who conveys the material (or modified versions of
   it) with contractual assumptions of liability to the recipient, for
   any liability that these contractual assumptions directly impose on
   those licensors and authors.
 
-  \item 任何传递该材料（或其修改版）者，如果对接收者提供契约性责任许诺，需要为授权人或者该材料作者承担赔偿责任，因为任何契约假设责任都造成授权人或者作者承担。
+  - f) 任何传递该材料（或其修改版）者，如果对接收者提供契约性责任许诺，需要为授权人或者该材料作者承担赔偿责任，因为任何契约假设责任都造成授权人或者作者承担。
   \end{enumerate}
 
 All other non-permissive additional terms are considered ``further
@@ -569,8 +526,8 @@ the above requirements apply either way.
 
 附加条款，不管是授权的还是非授权的，可以以独立的书面许可出现，也可以声明为例外情况，两种做法都可以实现上述要求。
 
-\item Termination.
-\item 终止
+### 8. Termination.
+### 8. 终止
 
 You may not propagate or modify a covered work except as expressly
 provided under this License.  Any attempt otherwise to propagate or
@@ -606,8 +563,8 @@ material under section 10.
 
 当你享有的权利如本条所述被中止时，根据本许可证从你这里获得许可的第三方的权利不会因此中止。在你的权利恢复之前，你没有资格凭第10条获得同一材料的许可。
 
-\item Acceptance Not Required for Having Copies.
-\item 持有副本不需要接受
+### 9. Acceptance Not Required for Having Copies.
+### 9. 持有副本不需要接受
 
 You are not required to accept this License in order to receive or
 run a copy of the Program.  Ancillary propagation of a covered work
@@ -620,8 +577,8 @@ covered work, you indicate your acceptance of this License to do so.
 
 你不必为接收或运行本程序而接受本许可。类似地，仅仅因点对点传输接收到副本引发的对受保护作品的辅助性传播，并不要求接受本许可证。但是，除本许可证外没有什么可以授权你传播或修改任何受保护作品。如果你不接受本许可证，这些行为就侵犯了著作权。因此，一旦修改和传播一个受保护作品，就表明你接受了本许可证。
 
-\item Automatic Licensing of Downstream Recipients.
-\item 对下游接收者的自动授权
+### 10. Automatic Licensing of Downstream Recipients.
+### 10. 对下游接收者的自动授权
 
 Each time you convey a covered work, the recipient automatically
 receives a license from the original licensors, to run, modify and
@@ -652,8 +609,8 @@ sale, or importing the Program or any portion of it.
 
 你不可以对本许可证所授权利的行使施以进一步的限制。例如，你不可以索要许可费或版税，或就行使本许可证所授予的权利征收其他费用；你也不能发起诉讼（包括交互诉讼和反诉），宣称制作、使用、零售、批发、引进本程序或其部分的行为侵犯了任何专利声明。
 
-\item Patents.
-\item 专利
+### 11. Patents.
+### 11. 专利
 
 A ``contributor'' is a copyright holder who authorizes use under this
 License of the Program or a work on which the Program is based.  The
@@ -738,8 +695,8 @@ otherwise be available to you under applicable patent law.
 
 本许可证的任何部分不应被解释成在排斥或限制任何暗含的许可，或者其他在适用专利法下对抗侵权的措施。
 
-\item No Surrender of Others' Freedom.
-\item 不得牺牲他人的自由
+### 12. No Surrender of Others' Freedom.
+### 12. 不得牺牲他人的自由
 
 If conditions are imposed on you (whether by court order, agreement or
 otherwise) that contradict the conditions of this License, they do not
@@ -753,8 +710,8 @@ License would be to refrain entirely from conveying the Program.
 
 即便你面临与本许可证条款冲突的条件（来自于法庭要求、协议或其他），也不能成为你违反本许可证的理由。倘若你不能在传递受保护作品时同时满足本许可证和其他相关文件的要求，那么你就不要传递本程序。例如，你为了遵循某些要求，你必须向传递对象的接收者收取版税，唯一能同时满足它和本许可证要求的做法便是不传递本程序。
 
-\item Remote Network Interaction; Use with the GNU General Public License.
-\item 远程网络交互；与GNU GPL通用公共许可证一起使用
+### 13. Remote Network Interaction; Use with the GNU General Public License.
+### 13. 远程网络交互；与GNU GPL通用公共许可证一起使用
 
 Notwithstanding any other provision of this License, if you modify the
 Program, your modified version must prominently offer all users interacting
@@ -778,8 +735,8 @@ will remain governed by version 3 of the GNU General Public License.
 
 尽管本许可证有其他规定，你有权将任何受保护作品与根据 GNU 通用公共许可证第 3 版许可的作品链接或组合成一个单一的组合作品，并传递由此产生的作品。 本许可证的条款将继续适用于包含作品的部分，但与之结合的作品将继续受 GNU 通用公共许可证第 3 版的约束。
 
-\item Revised Versions of this License.
-\item 本许可证的修订版
+### 14. Revised Versions of this License.
+### 14. 本许可证的修订版
 
 The Free Software Foundation may publish revised and/or new versions of
 the GNU Affero General Public License from time to time.  Such new versions will
@@ -813,41 +770,39 @@ later version.
 
 后续版本可能会给予你额外或不同的许可。但是，任何作者或版权持有人的义务，不会因为你选择新后续版本而增加。
 
-\item Disclaimer of Warranty.
-\item 免责声明
+### 15. Disclaimer of Warranty.
+### 15. 免责声明
 
-\begin{sloppypar}
- THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
- APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE
- COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM ``AS IS''
- WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
- INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
- MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE
- RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.
- SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL
- NECESSARY SERVICING, REPAIR OR CORRECTION.
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE
+COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM ``AS IS''
+WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE
+RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.
+SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL
+NECESSARY SERVICING, REPAIR OR CORRECTION.
 
- 本程序在适用法律范围内不提供品质担保。除非另作书面声明，版权持有人及其他程序提供者“概”不提供任何显式或隐式的品质担保，品质担保所指包括而不仅限于有经济价值和适合特定用途的保证。全部风险，如程序的质量和性能问题，皆由你承担。若程序出现缺陷，你将承担所有必要的修复和更正服务的费用。
-\end{sloppypar}
+本程序在适用法律范围内不提供品质担保。除非另作书面声明，版权持有人及其他程序提供者“概”不提供任何显式或隐式的品质担保，品质担保所指包括而不仅限于有经济价值和适合特定用途的保证。全部风险，如程序的质量和性能问题，皆由你承担。若程序出现缺陷，你将承担所有必要的修复和更正服务的费用。
 
-\item Limitation of Liability.
-\item 责任限制
+### 16. Limitation of Liability.
+### 16. 责任限制
 
- IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN
- WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES
- AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR
- DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL
- DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM
- (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED
- INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE
- OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH
- HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
- DAMAGES.
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN
+WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES
+AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR
+DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL
+DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM
+(INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED
+INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE
+OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH
+HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES.
 
- 除非适用法律或书面协议要求，任何版权持有人或本程序按本许可证可能存在的第三方修改和再发布者，都不对你的损失负有责任，包括由于使用或者不能使用本程序造成的任何一般的、特殊的、偶发的或重大的损失（包括而不限于数据丢失、数据失真、你或第三方的后续损失、其他程序无法与本程序协同运作），即使有人声称会对此负责。
+除非适用法律或书面协议要求，任何版权持有人或本程序按本许可证可能存在的第三方修改和再发布者，都不对你的损失负有责任，包括由于使用或者不能使用本程序造成的任何一般的、特殊的、偶发的或重大的损失（包括而不限于数据丢失、数据失真、你或第三方的后续损失、其他程序无法与本程序协同运作），即使有人声称会对此负责。
 
-\item Interpretation of Sections 15 and 16.
-\item 第15条和第16条的解释
+### 17. Interpretation of Sections 15 and 16.
+### 17. 第15条和第16条的解释
 
 If the disclaimer of warranty and limitation of liability provided
 above cannot be given local legal effect according to their terms,
@@ -858,16 +813,13 @@ copy of the Program in return for a fee.
 
 如果上述免责声明和责任限制不为地方法律所支持，上诉法庭应采用与之最接近的关于放弃本程序相关民事责任的地方法律，除非本程序附带收费的品质担保或责任许诺。
 
-\begin{center}
-{\Large\sc End of Terms and Conditions}
+End of Terms and Conditions
 
-{\Large 条款和适用条件结束}
+条款和适用条件结束
 
-\bigskip
-How to Apply These Terms to Your New Programs
+## How to Apply These Terms to Your New Programs
 
-如何将上述条款应用到你的程序
-\end{center}
+## 如何将上述条款应用到你的程序
 
 If you develop a new program, and you want it to be of the greatest
 possible use to the public, the best way to achieve this is to make it
@@ -882,20 +834,18 @@ the ``copyright'' line and a pointer to where the full notice is found.
 
 为此，最安全、最有效的办法是将如下的声明附在每个文件开头，以明确传达免责声明。每个文件应当最少包含一个“版权声明”和一个本许可证的完整声明。
 
-{\footnotesize
-\begin{verbatim}
 <one line to give the program's name and a brief idea of what it does.>
 
-<用一行标明程序的名称和作用。 >
+    <用一行标明程序的名称和作用。 >
 
-Copyright (C) <textyear>  <name of author>
+    Copyright (C) <textyear>  <name of author>
 
-版权所有 (C) <年份>  <作者姓名>
+    版权所有 (C) <年份>  <作者姓名>
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
 
 本程序是自由软件，你可以根据自由软件基金会发布的GNU通用许可证自由地再分发或者修改。本程序适用第3版或者后续版本（具体随你）。
 
@@ -909,8 +859,6 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>..
 你应当随本程序收到了GNU通用公共许可证的副本，如果没有，请参阅<https://www.gnu.org/licenses/>。
-\end{verbatim}
-}
 
 Also add information on how to contact you by electronic and paper mail.
 
@@ -934,24 +882,12 @@ the GNU AGPL, see \texttt{https://www.gnu.org/licenses/}.
 
 如果需要，你还应该得到你的雇主（如果你是一名程序员）或者学校（如果有的话）签署该本程序的放弃版权声明。关于如何应用及遵循GNU通用公共授权许可证的详细信息，请查看 \texttt{https://www.gnu.org/licenses/}。
 
-\end{enumerate}
+---
 
-\vfill
+翻译： 赵振华 zhao.zhenhua@gmail.com
 
-\noindent\rule{\textwidth}{0.4pt}
+发布日期：2023年1月19日
 
-\textbf{翻译：} 赵振华 \texttt{zhao.zhenhua@gmail.com}
-
-\textbf{发布日期：} \today
-
-\textbf{地址：} \texttt{https://github.com/zRich/gpl/blob/main/agplv3/agplv3.pdf}
+地址： https://github.com/zRich/gpl/blob/main/agplv3/agplv3.pdf
 
 如有修改建议欢迎发邮件或者到 \texttt{https://github.com/zRich/gpl}讨论。
-
-\end{document}
-
-%%% Local Variables:
-%%% mode: latex
-%%% TeX-master: t
-%%% End:
-
