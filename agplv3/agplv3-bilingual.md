@@ -5,7 +5,7 @@ Version 3, 19 November 2007
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
-版权所有 (C) 2007年 自由软件基金会 https://fsf.org/
+版权所有 (C) 2007年 自由软件基金会 https://fsf.org/。
 
 任何人都可以复制和发布本许可证的完整副本，但不允许修改。
 
@@ -429,13 +429,15 @@ network may be denied when the modification itself materially and
 adversely affects the operation of the network or violates the rules and
 protocols for communication across the network.
 
+提供安装信息的要求不包括对接受者修改或者安装、或者已经被修改或者安装的用户产品继续提供支持服务、品质担保或者升级。当修改本身对网络运行有重大负面影响，或违反网络通信规则和协议时，可能会被拒绝访问网络。
+
 Corresponding Source conveyed, and Installation Information provided,
 in accord with this section must be in a format that is publicly
 documented (and with an implementation available to the public in
 source code form), and must require no special password or key for
 unpacking, reading or copying.
 
-提供安装信息的要求不包括对接受者修改或者安装、或者已经被修改或者安装的用户产品继续提供支持服务、品质担保或者升级。当修改本身对网络运行有重大负面影响，或违反网络通信规则和协议时，可能会被拒绝访问网络。
+根据本条规定，所专递相应源代码和所提供的安装信息必须以公开的文档格式（并且以源代码形式实现对公众可用）存在，同时不得对解包、阅读和复制设置任何密码或秘钥。
 
 ### 7. Additional Terms.
 ### 7. 附加条款
@@ -847,7 +849,7 @@ the ``copyright`` line and a pointer to where the full notice is found.
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
-本程序是自由软件，你可以根据自由软件基金会发布的GNU通用许可证自由地再分发或者修改。本程序适用第3版或者后续版本（具体随你）。
+    本程序是自由软件，你可以根据自由软件基金会发布的GNU通用许可证自由地再分发或者修改。本程序适用第3版或者后续版本（具体随你）。
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
