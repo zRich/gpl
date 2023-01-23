@@ -29,7 +29,7 @@ Secondarily, this License preserves for the author and publisher a way
 to get credit for their work, while not being considered responsible
 for modifications made by others.
 
-本许可证的目的是使手册、教科书或其他功能性和有用的文档在自由的意义上“自由”：确保每个人都可以有效地自由复制和重新分发它，无论是否修改它，无论是商业还是非商业。其次 ，本许可证为作者和出版商保留了一种获得其作品信誉的方式，同时不被视为对他人所做的修改负责。
+本许可证的目的是使手册、教科书或其他功能性和有用的文档在自由的意义上“自由”：确保每个人都可以有效地自由复制和重新分发它，无论是否修改它，无论是商业还是非商业。其次，本许可证为作者和出版商保留了一种获得其作品信誉的方式，同时不被视为对他人所做的修改负责。
 
 This License is a kind of "copyleft", which means that derivative
 works of the document must themselves be free in the same sense. It
@@ -627,3 +627,13 @@ free software license, such as theGNUGeneral Public License, to
 permit their use in free software.
 
 如果你的文档包含重要的程序代码示例，我们建议你根据你选择的自由软件许可证（例如GNU通用公共许可证）并行发布这些示例，以允许它们在自由软件中使用。
+
+--------------------------
+
+翻译：赵振华 zhao.zhenhua@gmail.com
+
+发布日期： 2023年1月23日
+
+地址：https://github.com/zRich/gpl/blob/main/fdl/fdl1.3.pdf
+
+如有修改建议欢迎发邮件或者到 https://github.com/zRich/gpl 讨论。

@@ -761,6 +761,7 @@ otherwise be available to you under applicable patent law.
 本许可证的任何部分不应被解释成在排斥或限制任何暗含的许可，或者其他在适用专利法下对抗侵权的措施。
 
 ### 12. No Surrender of Others' Freedom.
+
 ### 12. 不得牺牲他人的自由
 
 If conditions are imposed on you (whether by court order, agreement or
@@ -773,6 +774,7 @@ covered work so as to satisfy simultaneously your obligations under this License
 例如，你为了遵循某些要求，你必须向传递对象的接收者收取版税，唯一能同时满足它和本许可证要求的做法便是不传递本程序。
 
 ### 13. Use with the GNU Affero General Public License.
+
 ### 13. 与GNU Affero通用公共许可证一起使用
 
 Notwithstanding any other provision of this License, you have
@@ -871,7 +873,6 @@ copy of the Program in return for a fee.
 如果上述免责声明和责任限制不为地方法律所支持，上诉法庭应采用与之最接近的关于放弃本程序相关民事责任的地方法律，
 除非本程序附带收费的品质担保或责任许诺。
 
-
 End of Terms and Conditions
 
 条款和适用条件结束
@@ -894,33 +895,30 @@ the ``copyright'' line and a pointer to where the full notice is found.
 
 为此，最安全、最有效的办法是将如下的声明附在每个文件开头，以明确传达免责声明。每个文件应当最少包含一个“版权声明”和一个本许可证的完整声明。
 
-```
-<one line to give the program's name and a brief idea of what it does.>
-<用一行标明程序的名称和作用。 >
+  <one line to give the program's name and a brief idea of what it does.>
+  （用一行标明程序的名称和作用。 ）
 
-Copyright (C) <textyear>  <name of author>
-版权所有 (C) <年份>  <作者姓名>
+  Copyright (C) <textyear>  <name of author>
+  版权所有 (C) <年份>  <作者姓名>
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
 
-本程序是自由软件，你可以根据自由软件基金会发布的GNU通用许可证自由地再分发或者修改。本程序适用第3版或者后续版本（具体随你）。
+  本程序是自由软件，你可以根据自由软件基金会发布的GNU通用许可证自由地再分发或者修改。本程序适用第3版或者后续版本（具体随你）。
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
 
-我们希望本程序有用，但是不提供任何保证，甚至不保证它的经济价值或者适合特定目的。具体细节参加GNU通过公共许可证。
+  我们希望本程序有用，但是不提供任何保证，甚至不保证它的经济价值或者适合特定目的。具体细节参加GNU通过公共许可证。
 
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-你应当随本程序收到了GNU通用公共许可证的副本，如果没有，请参阅<https://www.gnu.org/licenses/>。
-
-```
+  你应当随本程序收到了GNU通用公共许可证的副本，如果没有，请参阅<https://www.gnu.org/licenses/>。
 
 Also add information on how to contact you by electronic and paper mail.
 
@@ -931,16 +929,14 @@ notice like this when it starts in an interactive mode:
 
 如果本程序是交互的，使其在交互模式启动前输出如下的简短声明：
 
-```
-<program>  Copyright (C) <year>  <name of author>
-<程序> 版权所有 (C) <年份>  <作者姓名>
-This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
-This is free software, and you are welcome to redistribute it
-under certain conditions; type `show c' for details.
+  <program>  Copyright (C) <year>  <name of author>
+  <程序> 版权所有 (C) <年份>  <作者姓名>
+  This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+  This is free software, and you are welcome to redistribute it
+  under certain conditions; type `show c' for details.
 
-本程序不提供任何品质保证，输入“show w”查看详情。
-本软件是自由软件，欢迎你根据许可条件再分发，输入“show c”查看详情。
-```
+  本程序不提供任何品质保证，输入“show w”查看详情。
+  本软件是自由软件，欢迎你根据许可条件再分发，输入“show c”查看详情。
 
 The hypothetical commands `show w` and `show c` should show the appropriate parts of the General Public License.  Of course, your program's commands might be different; for a GUI interface, you would use an ``about box''.
 
@@ -965,7 +961,8 @@ first, please read https://www.gnu.org/licenses/why-not-lgpl.html.
 本通用公共许可证不允许将你的程序合并到私有程序。如果你的程序是子程序库，而你可以考虑让私有程序链接它，使其更有用。如果你希望这么做，
 你可以使用GUN宽松通用许可证，但是首先，请阅读 https://www.gnu.org/licenses/why-not-lgpl.html。
 
-- - -
+--------------------------
+
 翻译：赵振华 zhao.zhenhua@gmail.com
 
 发布日期： 2023年1月18日

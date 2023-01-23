@@ -690,7 +690,8 @@ That's all there is to it!
 
 全文结束！
 
-- - -
+--------------------------
+
 翻译：赵振华 zhao.zhenhua@gmail.com
 
 发布日期： 2023年1月23日

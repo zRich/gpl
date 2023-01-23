@@ -46,17 +46,62 @@ You may publish this translation, modified or unmodified, only under the terms a
 
 你可以为你实际发送副本的实际行为收取费用，你也可以提供品质保证收取费用。
 
+**2.** You may modify your copy or copies of the Program or any
+portion of it, thus forming a work based on the Program, and copy and
+distribute such modifications or work under the terms of Section 1
+above, provided that you also meet all of these conditions:
+
 2、你可以通过修改本程序副本或者其中任意部分，从而构成衍生作品，并在满足条款1以及下列3点要求的前提下复制或者分发修改的作品。
+
+**a)** You must cause the modified files to carry prominent notices
+stating that you changed the files and the date of any change.
 
   a）你必须在修改后的文件带有明显的声明，说明你修改的任何文件和日期。
 
+**b)** You must cause any work that you distribute or publish, that in
+whole or in part contains or is derived from the Program or any part
+thereof, to be licensed as a whole at no charge to all third parties
+under the terms of this License.
+
   b）你必须将你发布或者发表的整个或者部分，或者基于本程序或者任意部分衍生的作品，全部免费地按照本许可证许可给所有第三方。
+
+  **c)** If the modified program normally reads commands interactively
+when run, you must cause it, when started running for such interactive
+use in the most ordinary way, to print or display an announcement
+including an appropriate copyright notice and a notice that there is
+no warranty (or else, saying that you provide a warranty) and that
+users may redistribute the program under these conditions, and telling
+the user how to view a copy of this License. (Exception: if the
+Program itself is interactive but does not normally print such an
+announcement, your work based on the Program is not required to print
+an announcement.)
 
   c）如果修改后的软件在运行时通常以交互的方式读取命令，你必须在让程序进入交互模式时打印或者显示合适的版权声明和免责声明（或者，你也可以提供品质保证），并且告诉用户可以在本约束下分发本软件，告知用户如何查阅本许可证（例外：如果程序本来就是交互方式的但不打印声明，你的衍生作品也不需要打印声明）。
 
+These requirements apply to the modified work as a whole. If
+identifiable sections of that work are not derived from the Program,
+and can be reasonably considered independent and separate works in
+themselves, then this License, and its terms, do not apply to those
+sections when you distribute them as separate works. But when you
+distribute the same sections as part of a whole which is a work based
+on the Program, the distribution of the whole must be on the terms of
+this License, whose permissions for other licensees extend to the
+entire whole, and thus to each and every part regardless of who wrote
+it.
+
 上述要求对修改后作品的整体有效。如果作品可以独立的部分不是从本软件衍生的，可以合理地将它们作为独立或者单独的作品，进行单独分发，本许可及其条款不适应于它们。但是，当你将它们与本程序的衍生作品一同发布时，分发的作品必须作为一个整体按照本许可证许可，本许可证的授权延伸到全部作品，而无论其任何部分是谁写的。
 
+Thus, it is not the intent of this section to claim rights or contest
+your rights to work written entirely by you; rather, the intent is to
+exercise the right to control the distribution of derivative or
+collective works based on the Program.
+
 因此，本条款的目的不是声明或者争辩你创造的作品的全部权利，而是行使控制本程序衍生作品或者集体作品的分发权利。
+
+Thus, it is not the intent of this section to claim rights or contest
+your rights to work written entirely by you; rather, the intent is to
+exercise the right to control the distribution of derivative or
+collective works based on the Program.
 
 另外，仅仅与本程序或者衍生作品一同存储或者通过同一个介质上分发的其他非本程序的衍生作品不在本许可证范围内。
 
@@ -201,10 +246,10 @@ of the License, or (at your option) any later version.
 
 本程序是自由软件，你可以根据自由软件基金会发布的GNU通用许可证自由地再分发或者修改。本程序适用第2版或者后续版本（具体随你）。
 
-This program is free software; you can redistribute it and/or
-modify it under the terms of the GNU General Public License
-as published by the Free Software Foundation; either version 2
-of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
 
 我们希望本程序有用，但是不提供任何保证，甚至不保证它的经济价值或者适合特定目的。具体细节参加GNU通过公共许可证。
 
@@ -217,11 +262,20 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 Also add information on how to contact you by electronic and paper
 mail.
 
-同时提供你的电子邮件或者纸质邮件地址。
+同时提供联系你的电子邮件或者纸质邮件地址。
+
+If the program is interactive, make it output a short notice like this
+when it starts in an interactive mode:
 
 如果本程序是交互的，让它在交互模式启动前输出如下的简短声明：
 
-    Gnomovision 第69版，版权所有（C）年份 作者姓名
+    Gnomovision version 69, Copyright (C) year name of author
+    Gnomovision comes with ABSOLUTELY NO WARRANTY; for details
+    type `show w'.  This is free software, and you are welcome
+    to redistribute it under certain conditions; type `show c' 
+    for details.
+
+    Gnomovision 第69版，版权所有（C）年份 作者姓名   
 
     Gnomovision不提供任何品质保证，输入“show w”查看详情。本软件是自由软件，欢迎你根据许可条件再分发，输入“show c”查看详情。
 
