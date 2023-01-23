@@ -1,4 +1,4 @@
-###GNUFree Documentation License
+### GNUFree Documentation License
 
 ### GNU自由文档许可证
 
@@ -68,7 +68,7 @@ A "Modified Version" of the Document means any work containing the
 Document or a portion of it, either copied verbatim, or with
 modifications and/or translated into another language.
 
-文档的“修改版本”是指包含文档或其任何一部分的文字，无论是逐字复制，还是经过修改和/或翻译成另一种语言。
+文档的“修改版本”是指包含文档或其任何一部分的文本，无论是逐字复制，还是经过修改和/或翻译成另一种语言。
 
 A "Secondary Section" is a named appendix or a front-matter section of
 the Document that deals exclusively with the relationship of the
@@ -98,7 +98,7 @@ as Front-Cover Texts or Back-Cover Texts, in the notice that says that
 the Document is released under this License. A Front-Cover Text may be
 at most 5 words, and a Back-Cover Text may be at most 25 words.
 
-“封面文本”是某些简短的文本段落，作为封面文本或封底文本，在声明文档是根据本许可证发布的声明中列出。封面文字最多5个字，封底文字最多25个字。
+“封面文本”是某些简短的文本段落，作为封面文本或封底文本，在声明文档是根据本许可证发布的声明中列出。封面文本最多5个字，封底文本最多25个字。
 
 A "Transparent" copy of the Document means a machine-readable copy,
 represented in a format whose specification is available to the
@@ -126,7 +126,7 @@ processing tools are not generally available, and the
 machine-generated HTML, PostScript or PDF produced by some word
 processors for output purposes only.
 
-透明副本的合适格式示例包括无标记的纯 ASCII、Texinfo 输入格式、LaTeX 输入格式、使用公开可用的 DTD 的 SGML 或 XML，以及为人为修改而设计的符合标准的简单 HTML、PostScript 或 PDF。透明图像格式的示例包括 PNG、XCF 和 JPG。不透明格式包括只能由专有文字处理器读取和编辑的专有格式、DTD 和/或处理工具通常不可用的 SGML 或 XML，以及机器生成的 HTML、PostScript 或由某些文字处理器生成的 PDF 输出目的而已。
+透明副本的合适格式示例包括无标记的纯 ASCII、Texinfo 输入格式、LaTeX 输入格式、使用公开可用的 DTD 的 SGML 或 XML，以及为人为修改而设计的符合标准的简单 HTML、PostScript 或 PDF。透明图像格式的示例包括 PNG、XCF 和 JPG。不透明格式包括只能由专有文本处理器读取和编辑的专有格式、DTD 和/或处理工具通常不可用的 SGML 或 XML，以及机器生成的 HTML、PostScript 或由某些文本处理器生成的 PDF 输出目的而已。
 
 The "Title Page" means, for a printed book, the title page itself,
 plus such following pages as are needed to hold, legibly, the material
@@ -175,7 +175,7 @@ copying of the copies you make or distribute. However, you may accept
 compensation in exchange for copies. If you distribute a large enough
 number of copies you must also follow the conditions in section 3.
 
-你可以在任何媒体上以商业或非商业方式复制和分发文档，前提是本许可证、版权声明和声明本许可证适用于文档的许可声明在所有副本中均已复制，并且你不添加任何其他条件 本许可证的那些。你不得使用技术措施来阻止或控制阅读或进一步复制你制作或分发的副本。但是，你可以接受补偿以换取副本。如果你分发了足够多的副本，你还必须遵守第 3 节中的条件。
+你可以在任何媒体上以商业或非商业方式复制和分发文档，前提是本许可证、版权声明和声明本许可证适用于文档的许可声明在所有副本中均已复制，并且你不添加任何其他条件 本许可证的那些。你不得使用技术措施来阻止或控制阅读或进一步复制你制作或分发的副本。但是，你可以接受补偿以换取副本。如果你分发了足够多的副本，你还必须遵守第3条中的条件。
 
 You may also lend copies, under the same conditions stated above, and
 you may publicly display copies.
@@ -199,14 +199,14 @@ changes limited to the covers, as long as they preserve the title of
 the Document and satisfy these conditions, can be treated as verbatim
 copying in other respects.
 
-如果你发布文档的印刷副本（或通常有印刷封面的媒体副本），数量超过100，并且文档的许可通知需要封面文本，你必须将副本附在封面中，封面清晰易读，所有这些 封面文字：封面文字位于封面，封底文字位于封底。两个封面还必须清晰易读地表明你是这些副本的出版商。封面必须显示完整的标题，标题的所有文字都同样突出和可见。你还可以在封面上添加其他材料。仅对封面进行改动的复制，只要保留文档的标题并满足这些条件，在其他方面可以视为逐字复制。
+如果你发布文档的印刷副本（或通常有印刷封面的媒体副本），数量超过100，并且文档的许可通知需要封面文本，你必须将副本附在封面中，封面清晰易读，所有这些 封面文本：封面文本位于封面，封底文本位于封底。两个封面还必须清晰易读地表明你是这些副本的出版商。封面必须显示完整的标题，标题的所有文本都同样突出和可见。你还可以在封面上添加其他材料。仅对封面进行改动的复制，只要保留文档的标题并满足这些条件，在其他方面可以视为逐字复制。
 
 If the required texts for either cover are too voluminous to fit
 legibly, you should put the first ones listed (as many as fit
 reasonably) on the actual cover, and continue the rest onto adjacent
 pages.
 
-如果任何一个封面所需的文字太多而无法清晰地显示，你应该将列出的第一个（尽可能多）放在实际封面上，然后将其余的放在相邻的页面上。
+如果任何一个封面所需的文本太多而无法清晰地显示，你应该将列出的第一个（尽可能多）放在实际封面上，然后将其余的放在相邻的页面上。
 
 If you publish or distribute Opaque copies of the Document numbering
 more than 100, you must either include a machine-readable Transparent
@@ -367,13 +367,13 @@ by arrangement made by the same entity you are acting on behalf of,
 you may not add another; but you may replace the old one, on explicit
 permission from the previous publisher that added the old one.
 
-你可以在修改版本的封面文本列表末尾添加一段最多5个单词的封面文本，以及一段最多25个单词的封底文本。任何一个实体只能添加一段封面文本和一段封底文本（或通过安排）。如果文档已经包含相同封面的封面文本，这是你之前添加的或由你代表的同一实体做出的安排，则你不得添加另一个；但你可以替换旧的，前提是获得添加旧版本的前任发布者的明确许可。
+你可以在修改版本的封面文本列表末尾添加一段最多5个字的封面文本，以及一段最多25个单词的封底文本。任何一个实体只能添加（或安排）一段封面文本和一段封底文本。如果文档已经包含相同封面的封面文本，由你之前添加的或由你代表的同一实体做出的安排，则你不得添加另一个；但你可以替换旧的，前提是获得添加旧版本的前任发布者的明确授权。
 
 The author(s) and publisher(s) of the Document do not by this License
 give permission to use their names for publicity for or to assert or
 imply endorsement of any Modified Version.
 
-文档的作者和发布者未根据本许可证授权使用其名称进行宣传或断言或暗示对任何修改版本的认可。
+文档的作者和发布者不根据本许可证授权使用其名称进行宣传或主张或暗示对任何修改版本的认可。
 
 #### 5. COMBINING DOCUMENTS
 
@@ -386,7 +386,7 @@ Invariant Sections of all of the original documents, unmodified, and
 list them all as Invariant Sections of your combined work in its
 license notice, and that you preserve all their Warranty Disclaimers.
 
-你可以根据上述第4条中针对修改版本定义的条款，将本文档与根据本许可证发布的其他文档组合在一起，前提是你在组合中包括所有原始文档的所有不变部分，未修改，并将它们全部列出作为你组合作品在其许可通知中的不变部分，并且你保留他们所有的保修免责声明。
+你可以根据上述第4条中针对修改版本定义的条款，将本文档与根据本许可证发布的其他文档组合在一起，前提是你在组合中包括所有原始文档的所有不变部分，不加修改，并将它们全部列出作为你组合作品在其许可声明中的不变部分，并且你保留它们的所有的保修免责声明。
 
 The combined work need only contain one copy of this License, and
 multiple identical Invariant Sections may be replaced with a single
@@ -397,7 +397,7 @@ author or publisher of that section if known, or else a unique number.
 Make the same adjustment to the section titles in the list of
 Invariant Sections in the license notice of the combined work.
 
-合并后的作品只需包含本许可证的一个副本，多个相同的不变部分可以用一个副本替换。如果有多个名称相同但内容不同的不变部分，则通过在其末尾添加该部分的原作者或出版商的名称（如果已知）在括号中使每个此类部分的标题唯一，或者 唯一编号。对组合作品的许可通知中的不变部分列表中的章节标题进行相同的调整。
+合并后的作品只需包含本许可证的一个副本，多个相同的不变部分可以用一个副本替换。如果有多个名称相同但内容不同的不变部分，则通过在其末尾添加该部分的原作者或出版商的名称（如果已知）在括号中使每个此类部分的标题唯一，或者唯一编号。对组合作品的许可声明中的不变部分列表中的章节标题进行相同的调整。
 
 In the combination, you must combine any sections Entitled "History"
 in the various original documents, forming one section Entitled
@@ -418,7 +418,7 @@ that is included in the collection, provided that you follow the rules
 of this License for verbatim copying of each of the documents in all
 other respects.
 
-你可以制作一个由文档和根据本许可证发布的其他文档组成的集合，并将各种文档中的本许可证的各个副本替换为集合中包含的单个副本，前提是你遵循本许可证的规则在所有其他方面逐字复制每份文件。
+你可以制作一个由文档和根据本许可证发布的其他文档组成的集合，并将各种文档中的本许可证的各个副本替换为集合中包含的单个副本，前提是你遵循本许可证的条款在所有其他方面逐字复制每份文件。
 
 You may extract a single document from such a collection, and
 distribute it individually under this License, provided you insert a
@@ -477,7 +477,7 @@ If a section in the Document is Entitled "Acknowledgements",
 its Title (section 1) will typically require changing the actual
 title.
 
-如果文档中的某个部分标题为“致谢”、“贡献”或“历史”，则保留其标题（第1条）的要求（第4条）通常需要更改实际标题。
+如果文档中的某个部分标题为“致谢”、“贡献”或“历史”，则保留其标题的要求（第4条）通常需要更改实际标题（第1条）。
 
 #### 9. TERMINATION
 
@@ -526,7 +526,7 @@ will be similar in spirit to the present version, but may differ in
 detail to address new problems or concerns. See
 <https://www.gnu.org/licenses/>.
 
-自由软件基金会可能会不时发布GNU自由文档许可证的新修订版本。这些新版本在精神上与当前版本相似，但在解决新问题或疑虑的细节上可能有所不同。请参阅 <https://www.gnu.org/licenses/>。
+自由软件基金会可能会不时发布GNU自由文档许可证的新修订版本。这些新版本在精神上与当前版本相似，但在解决新问题或事项的细节上可能有所不同。请参阅 <https://www.gnu.org/licenses/>。
 
 Each version of the License is given a distinguishing version number.
 If the Document specifies that a particular numbered version of this
@@ -561,7 +561,7 @@ corporation with a principal place of business in San Francisco,
 California, as well as future copyleft versions of that license
 published by that same organization.
 
-“CC-BY-SA”是指由知识共享公司发布的 Creative Commons Attribution-Share Alike 3.0 许可证，这是一家主要营业地点位于加利福尼亚州旧金山的非营利性公司，以及该许可证的未来著作权版本同一组织发布的许可证。
+“CC-BY-SA”是指由知识共享组织发布的 Creative Commons Attribution-Share Alike 3.0 许可证，这是一家有重要商业地位、位于加利福尼亚州旧金山的非营利性公司，此许可证的未来著佐权版本也由该组织发布。
 
 "Incorporate" means to publish or republish a Document, in whole or in
 part, as part of another Document.
@@ -597,18 +597,18 @@ license notices just after the title page:
         版权所有 (C) 年份 作者姓名
 
         Permission is granted to copy, distribute and/or modify this document
-        under the terms of theGNUFree Documentation License, Version 1.3
+        under the terms of the GNU Free Documentation License, Version 1.3
         or any later version published by the Free Software Foundation;
         with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
         A copy of the license is included in the section entitled "GNU
         Free Documentation License".
 
-        根据GNU自由文档许可证1.3版或自由软件基金会发布的任何更新版本的条款，授予复制、分发和/或修改本文档的权限；没有不变的部分，没有封面文本，也没有封底文本。该许可证的副本包含在标题为“GNU自由文档许可证”的部分中。
+        根据GNU自由文档许可证1.3版或自由软件基金会发布的任何更新版本的条款，授予复制、分发和/或修改本文档的权限；不包括不变的部分，封面文本，也包括封底文本。该许可证的副本包含在标题为“GNU自由文档许可证”的部分中。
 
 If you have Invariant Sections, Front-Cover Texts and Back-Cover
 Texts, replace the "with...Texts." line with this:
 
-如果你有固定部分、封面文本和封底文本，请将“XXX清单”替换为相应内容：
+如果有固定部分、封面文本和封底文本，请将“XXX清单”替换为相应内容：
 
         with the Invariant Sections being LIST THEIR TITLES, with the
         Front-Cover Texts being LIST, and with the Back-Cover Texts being LIST.
