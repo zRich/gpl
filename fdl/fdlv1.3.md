@@ -634,6 +634,6 @@ permit their use in free software.
 
 发布日期： 2023年1月23日
 
-地址：https://github.com/zRich/gpl/blob/main/fdl/fdl1.3.pdf
+地址：<https://github.com/zRich/gpl/blob/main/fdl/fdl1.3.pdf>
 
-如有修改建议欢迎发邮件或者到 https://github.com/zRich/gpl 讨论。
+如有修改建议欢迎发邮件或者到 <https://github.com/zRich/gpl> 讨论。

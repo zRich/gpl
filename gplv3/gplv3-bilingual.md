@@ -2,18 +2,17 @@
 
 第3版，2007年6月29日
 
-版权所有 (C) 2007年 自由软件基金会 https://fsf.org/
-    
+版权所有 (C) 2007年 自由软件基金会 <https://fsf.org/>
+
 任何人都可以复制和发布本许可证的完整副本，但不允许修改。
 
 ## 译者声明
-
 
 This is an unofficial translation of the GNU General Public License into Chinese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for software that uses the GNU GPL--only the original English text of the GNU GPL does that. However, we hope that this translation will help Chinese speakers understand the GNU GPL better.
 
 本译文是GNU通用公共许可证的非官方中文翻译，并非自由软件基金会发布，不适合作为使用GNU通用公共许可证发布的软件的法律声明——只有GNU通用公共许可证英文原版才具有法律效力。不过我们希望本翻译能够帮助中文读者更好地理解GNU通用公共许可证。
 
-仅在遵循 https://www.gnu.org/licenses/translations.html 中的条款时，你才可以经过修改地或者不经过修改地发布本译文。
+仅在遵循 <https://www.gnu.org/licenses/translations.html> 中的条款时，你才可以经过修改地或者不经过修改地发布本译文。
 
 ## 引言
 
@@ -164,7 +163,6 @@ menu, a prominent item in the list meets this criterion.
 （2）告知用户没有品质担保（提供了品质担保的情况除外），被授权人可以在本许可证约束下传递该作品，及查看本许可证副本的途径。
 如果该界面是以命令列表或者选项方式显示，如菜单，在列表项显示上述法律声明，也是符合本要求。
 
-
 ### 1. 源代码
 
 The ``source code'' for a work means the preferred form of the work
@@ -260,7 +258,7 @@ makes it unnecessary.
 
 仅当满足后文所述条件时，其他各种情况下的传递才是被允许的。不允许再授权，而第10条的存在也使再授权变得没有必要。
 
-  ### 3. 保护用户的合法权益免受反破解法限制
+### 3. 保护用户的合法权益免受反破解法限制
 
 No covered work shall be deemed part of an effective technological
 measure under any applicable law fulfilling obligations under article
@@ -309,7 +307,6 @@ terms of section 4, provided that you also meet all of these conditions:
 
 你可以以第4条规定的源代码形式传递基于本程序的作品或修改的内容，但必须满足以下要求：
 
-        
 #### a. 该作品必须带有明显的修改声明及相应的日期。
 
 \item The work must carry prominent notices stating that it is

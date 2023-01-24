@@ -1,6 +1,6 @@
-### GNU LESSER GENERAL PUBLIC LICENSE
+# GNU LESSER GENERAL PUBLIC LICENSE
 
-### GNU 宽松通用公共许可证
+# GNU 宽松通用公共许可证
 
 Version 2.1, February 1999
 
@@ -696,6 +696,6 @@ That's all there is to it!
 
 发布日期： 2023年1月23日
 
-地址：https://github.com/zRich/gpl/blob/main/lgplv2.1/lgplv2.1.pdf
+地址：<https://github.com/zRich/gpl/blob/main/lgplv2.1/lgplv2.1.pdf>
 
-如有修改建议欢迎发邮件或者到 https://github.com/zRich/gpl 讨论。
+如有修改建议欢迎发邮件或者到 <https://github.com/zRich/gpl> 讨论。

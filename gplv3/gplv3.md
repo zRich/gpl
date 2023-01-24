@@ -2,7 +2,7 @@
 
 第3版，2007年6月29日
 
-版权所有 (C) 2007年 自由软件基金会 https://fsf.org/。
+版权所有 (C) 2007年 自由软件基金会 <https://fsf.org/>。
 
 任何人都可以复制和发布本许可证的完整副本，但不允许修改。
 
@@ -12,7 +12,7 @@ This is an unofficial translation of the GNU General Public License into Chinese
 
 本译文是GNU通用公共许可证的非官方中文翻译，并非自由软件基金会发布，不适合作为使用GNU通用公共许可证发布的软件的法律声明——只有GNU通用公共许可证英文原版才具有法律效力。不过我们希望本翻译能够帮助中文读者更好地理解GNU通用公共许可证。
 
-仅在遵循 https://www.gnu.org/licenses/translations.html 中的条款时，你才可以经过修改地或者不经过修改地发布本译文。
+仅在遵循 <https://www.gnu.org/licenses/translations.html> 中的条款时，你才可以经过修改地或者不经过修改地发布本译文。
 
 ## 引言
 
@@ -244,7 +244,6 @@ GNU通用公共许可证是一份面向软件及其他类型作品的、著佐�
 
     你应当随本程序收到了GNU通用公共许可证的副本，如果没有，请参阅<https://www.gnu.org/licenses/>。
 
-
 同时提供你的电子邮件或者纸质邮件地址。
 
 如果本程序是交互的，使其在交互模式启动前输出如下的简短声明：
@@ -256,9 +255,9 @@ GNU通用公共许可证是一份面向软件及其他类型作品的、著佐�
 
 假设的命令`show w` 和 `show c` 用于显示通用公共许可证相应的内容。当然，你也可以使用`show w` 和 `show c` 之外的其他命令，对于图形界面程序，你可以使用“关于”对话框。
 
-如果需要，你还应该得到你的雇主（如果你是一名程序员）或者学校（如果有的话）签署该本程序的放弃版权声明。关于如何应用及遵循GNU通用公共授权许可证的详细信息，请查看  https://www.gnu.org/licenses/。
+如果需要，你还应该得到你的雇主（如果你是一名程序员）或者学校（如果有的话）签署该本程序的放弃版权声明。关于如何应用及遵循GNU通用公共授权许可证的详细信息，请查看  <https://www.gnu.org/licenses/>。
 
-本通用公共许可证不允许将你的程序合并到私有程序。如果你的程序是子程序库，而你可以考虑让私有程序链接它，使其更有用。如果你希望这么做，你可以使用GUN宽松通用许可证，但是首先，请阅读 https://www.gnu.org/licenses/why-not-lgpl.html。
+本通用公共许可证不允许将你的程序合并到私有程序。如果你的程序是子程序库，而你可以考虑让私有程序链接它，使其更有用。如果你希望这么做，你可以使用GUN宽松通用许可证，但是首先，请阅读 <https://www.gnu.org/licenses/why-not-lgpl.html>。
 
 --------------------------
 
@@ -266,6 +265,6 @@ GNU通用公共许可证是一份面向软件及其他类型作品的、著佐�
 
 发布日期： 2023年1月18日
 
-地址：https://github.com/zRich/gpl/blob/main/gplv3/gplv3.pdf
+地址：<https://github.com/zRich/gpl/blob/main/gplv3/gplv3.pdf>
 
-如有修改建议欢迎发邮件或者到 https://github.com/zRich/gpl 讨论。
+如有修改建议欢迎发邮件或者到 <https://github.com/zRich/gpl> 讨论。

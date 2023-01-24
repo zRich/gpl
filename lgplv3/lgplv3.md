@@ -250,6 +250,6 @@ Library.
 
 发布日期： 2023年1月20日
 
-地址：https://github.com/zRich/gpl/blob/main/lgplv3/lgplv3.pdf
+地址：<https://github.com/zRich/gpl/blob/main/lgplv3/lgplv3.pdf>
 
-如有修改建议欢迎发邮件或者到 https://github.com/zRich/gpl 讨论。
+如有修改建议欢迎发邮件或者到 <https://github.com/zRich/gpl> 讨论。
