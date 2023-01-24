@@ -1,4 +1,4 @@
-### GNUFree Documentation License
+### GNU Free Documentation License
 
 ### GNU自由文档许可证
 
@@ -62,7 +62,7 @@ and is addressed as "you". You accept the license if you copy, modify
 or distribute the work in a way requiring permission under copyright
 law.
 
-本许可证适用于任何手册或其他作品，在任何媒体中，包含版权所有者发出的声明，声明可以根据本许可证的条款分发。此类声明授予全球范围内的免版税许可，期限不受限制，可以在此处规定的条件下使用该作品。下面的“文档”是指任何此类手册或作品。公众的任何成员都是被许可人，并被称为“你”。如果你以版权法要求许可的方式复制、修改或分发作品，则你接受本许可证。
+本许可证适用于任何手册或其他作品，无论何种介质，只要包含版权持有人的声明，声明可以根据本许可证的条款分发。此类声明授予全球范围内的免版税许可，期限不受限制，可以在此处规定的条件下使用该作品。下面的“文档”是指任何此类手册或作品。公众的任何成员都是被许可人，并被称为“你”。如果你以版权法要求许可的方式复制、修改或分发作品，则你接受本许可证。
 
 A "Modified Version" of the Document means any work containing the
 Document or a portion of it, either copied verbatim, or with
@@ -592,28 +592,28 @@ license notices just after the title page:
 
 要在你编写的文档中使用此许可证，请在文档中包含一份许可证副本，并将以下版权和许可证声明放在标题页之后：
 
-        Copyright (C)  YEAR  YOUR NAME.
+    Copyright (C)  YEAR  YOUR NAME.
 
-        版权所有 (C) 年份 作者姓名
+    版权所有 (C) 年份 作者姓名
 
-        Permission is granted to copy, distribute and/or modify this document
-        under the terms of the GNU Free Documentation License, Version 1.3
-        or any later version published by the Free Software Foundation;
-        with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
-        A copy of the license is included in the section entitled "GNU
-        Free Documentation License".
+    Permission is granted to copy, distribute and/or modify this document
+    under the terms of the GNU Free Documentation License, Version 1.3
+    or any later version published by the Free Software Foundation;
+    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+    A copy of the license is included in the section entitled "GNU
+    Free Documentation License".
 
-        根据GNU自由文档许可证1.3版或自由软件基金会发布的任何更新版本的条款，授予复制、分发和/或修改本文档的权限；不包括不变的部分，封面文本，也包括封底文本。该许可证的副本包含在标题为“GNU自由文档许可证”的部分中。
+    根据GNU自由文档许可证第1.3版或自由软件基金会发布的任何更新版本的条款，授予复制、分发和/或修改本文档的权限；不包括不变的部分，封面文本，也包括封底文本。该许可证的副本包含在标题为“GNU自由文档许可证”的部分中。
 
 If you have Invariant Sections, Front-Cover Texts and Back-Cover
 Texts, replace the "with...Texts." line with this:
 
 如果有固定部分、封面文本和封底文本，请将“XXX清单”替换为相应内容：
 
-        with the Invariant Sections being LIST THEIR TITLES, with the
-        Front-Cover Texts being LIST, and with the Back-Cover Texts being LIST.
+    with the Invariant Sections being LIST THEIR TITLES, with the
+    Front-Cover Texts being LIST, and with the Back-Cover Texts being LIST.
 
-        不变部分的标题清单，封面文本清单，封底文本清单。
+    不变部分的标题清单，封面文本清单，封底文本清单。
 
 If you have Invariant Sections without Cover Texts, or some other
 combination of the three, merge those two alternatives to suit the
